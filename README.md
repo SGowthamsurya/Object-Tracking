@@ -1,10 +1,12 @@
 # Object-Tracking
 Object Tracking using YOLO
-Introduction:
+**Introduction:**
 
   This project implements an object tracking system using Raspberry Pi as the central processing unit and Arduino to control the servo motors. The Raspberry Pi processes the input from a camera module to detect and track objects, while the Arduino handles motor control for real-time movement.
 
-Features:
+  
+
+**Features:**
 
   Object Detection & Tracking: Uses computer vision techniques to identify and follow objects.
   
@@ -14,7 +16,9 @@ Features:
   
   Arduino as Actuator Controller: Manages servo movements efficiently.
 
-Components Used:
+  
+
+**Components Used:**
 
   Raspberry Pi (any model with camera support)
   
@@ -26,7 +30,9 @@ Components Used:
   
   Power Supply and Jumper Wires
 
-How It Works:
+  
+
+**How It Works:**
 
   The camera module/USB Webcam captures live video.
 
@@ -38,7 +44,9 @@ How It Works:
   
   The system continuously updates to track the object's movement in real-time.
 
-Future Improvements:
+  
+
+**Future Improvements:**
 
   Implementing AI-based tracking for enhanced accuracy.
   
